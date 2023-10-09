@@ -1,6 +1,6 @@
 <html>
 <body>
-<form method="post" action="maximum.php">
+<form method="post" action="maximumno.php">
 enter no1:
 <input type="number" name="t1"><br>
 enter no 2:
