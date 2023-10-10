@@ -27,10 +27,10 @@ case 1:ksort($a);
        print_r($a);
       
        break;
-case 2:arsort($a);
+case 2:asort($a);
        echo("<b><br>ascending order<b>");
        print_r($a);
-       asort($a);
+       arsort($a);
        echo("<br>desending order");
        print_r($a);
        break;
